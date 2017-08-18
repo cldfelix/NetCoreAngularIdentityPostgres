@@ -1,0 +1,8 @@
+C:\Users\felixcl\Documents\Projetos VisualCode\TemplateAngularNetcore\bin\Debug\netcoreapp1.1\TemplateAngularNetcore.deps.json
+C:\Users\felixcl\Documents\Projetos VisualCode\TemplateAngularNetcore\bin\Debug\netcoreapp1.1\TemplateAngularNetcore.runtimeconfig.json
+C:\Users\felixcl\Documents\Projetos VisualCode\TemplateAngularNetcore\bin\Debug\netcoreapp1.1\TemplateAngularNetcore.runtimeconfig.dev.json
+C:\Users\felixcl\Documents\Projetos VisualCode\TemplateAngularNetcore\bin\Debug\netcoreapp1.1\TemplateAngularNetcore.dll
+C:\Users\felixcl\Documents\Projetos VisualCode\TemplateAngularNetcore\bin\Debug\netcoreapp1.1\TemplateAngularNetcore.pdb
+C:\Users\felixcl\Documents\Projetos VisualCode\TemplateAngularNetcore\obj\Debug\netcoreapp1.1\TemplateAngularNetcore.AssemblyInfo.cs
+C:\Users\felixcl\Documents\Projetos VisualCode\TemplateAngularNetcore\obj\Debug\netcoreapp1.1\TemplateAngularNetcore.dll
+C:\Users\felixcl\Documents\Projetos VisualCode\TemplateAngularNetcore\obj\Debug\netcoreapp1.1\TemplateAngularNetcore.pdb
